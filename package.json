@@ -1,7 +1,7 @@
 {
   "name": "@ajar/sluggr",
   "version": "1.2.0",
-  "description": "",
+  "description": "Really, i mean it",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon consumer.draft.js"
@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajar-Ajar/sluggr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ajar-Ajar/sluggr/issues"
+  },
+  "homepage": "https://github.com/Ajar-Ajar/sluggr#readme"
 }
